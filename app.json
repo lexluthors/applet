@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/splash/splash",
+    
+    "pages/news/news",
+    "pages/news/news-detail/news-detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "猿代码",
+    "navigationBarTextStyle":"black"
+    
+  }
+}

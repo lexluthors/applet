@@ -1,0 +1,5 @@
+<!--pages/splash/splash.wxml-->
+<text>pages/splash/splash.wxml</text>
+<view>
+<button bindtap='bindViewHome'>你好</button>
+</view>

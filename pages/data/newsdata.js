@@ -1,0 +1,66 @@
+var initData = [{
+    "newsid": "0",
+    "authorIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "authorName": "liujie",
+    "authorDate": "2019/01/17",
+    "title": "岁月不老，一世倾城",
+    "articleminText": "岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城",
+    "articleImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "articleText": "岁月不老，岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城",
+    "articleLikeComment": "120",
+    "articleLikeSC": "20"
+}, {
+    "newsid": "0",
+    "authorIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "authorName": "liujie",
+    "authorDate": "2019/01/17",
+    "title": "岁月不老，一世倾城",
+    "articleImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "articleText": "岁月不老，一世倾城岁月不老，岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城",
+    "articleLikeComment": "这是第二个",
+    "articleLikeSC": "20"
+}, {
+    "newsid": "1",
+    "authorIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "authorName": "liujie",
+    "authorDate": "2019/01/17",
+    "title": "岁月不老，一世倾城",
+    "articleImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "articleText": "岁月不老，岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城",
+    "articleLikeComment": "这是第三个",
+    "articleLikeSC": "20"
+}, {
+    "newsid": "2",
+    "authorIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "authorName": "liujie",
+    "authorDate": "2019/01/17",
+    "title": "岁月不老，一世倾城",
+    "articleImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "articleText": "岁月不老岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城",
+    "articleLikeComment": "这是第四个",
+    "articleLikeSC": "20"
+}, {
+    "newsid": "0",
+    "authorIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "authorName": "liujie",
+    "authorDate": "2019/01/17",
+    "title": "岁月不老，一世倾城",
+    "articleImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "articleText": "岁月不老，一世岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城",
+    "articleLikeComment": "120",
+    "articleLikeSC": "20"
+}, {
+    "newsid": "0",
+    "authorIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "authorName": "liujie",
+    "authorDate": "2019/01/17",
+    "title": "岁月不老，一世倾城",
+    "articleImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548323084&di=c78aa4b66c06130bd7496af46f9f4833&imgtype=jpg&er=1&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Ff6b2701b12a01900e4d40ab3e08fa1d9da2fc82c.jpg",
+    "articleText": "岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城岁月不老，一世倾城一世倾城",
+    "articleLikeComment": "120",
+    "articleLikeSC": "20"
+}]
+
+module.exports = {
+    initData: initData
+}
